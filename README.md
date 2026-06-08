@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://github.com/Confy-Code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=323330" />
   </a>
 
   <a href="https://www.linkedin.com/in/isingizwe-j-confiance-118346249/">
@@ -65,3 +65,34 @@
   </a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Confy-Code&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### Overall Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Confy-Code&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Confy-Code&hide_border=true" />
+</p>
+
+---
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confy-Code&layout=compact&hide_border=true" />
+</p>
