@@ -67,21 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Confy-Code&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### Overall Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Confy-Code&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
+## GitHub Stats
 
 ### 🔥 GitHub Streak
 
@@ -90,9 +76,3 @@
 </p>
 
 ---
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confy-Code&layout=compact&hide_border=true" />
-</p>
