@@ -52,11 +52,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=FFFFFF" />
   </a>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:isingizweconfy@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&labelColor=FFFFFF" />
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="[Leetcode]https://leetcode.com/u/Confy-Code/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&labelColor=FFFFFF" />
   </a>
 </p>
