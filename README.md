@@ -1,8 +1,10 @@
-<img width="924" height="326" alt="image" src="https://github.com/user-attachments/assets/a3dd0bec-e967-4512-bb87-2875e4476e2f" /><h1 align="center">Hello, I'm I. Confiance</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=7000&center=true&vCenter=true&width=600&color=FFFFFF&lines=I'm+I.+Confiance,+and+you?;Thank+you+for+stopping+by+my+Github" alt="Typing SVG" />
+</p>
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Python+Developer;Software+Engineering+Student+at+AUCA;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=I'm+an+Applied+ML+Engineer;I'm+a+Python+Developer;Software+Engineering+Student|AUCA;I'm+a+Frontend+Developer" alt="Typing SVG" />
 </p>
 
 
@@ -78,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;It+will+be+my+honor+to+connect+with+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;I’d+love+to+know+a+little+about+you+too;Don't+be+a+stranger|let's+connect" alt="Typing SVG" />
 </p>
