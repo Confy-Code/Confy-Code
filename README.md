@@ -79,6 +79,12 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;I’d+love+to+know+a+little+about+you+too;Don't+be+a+stranger|let's+connect" alt="Typing SVG" />
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;I+wanna+know+more+about+you;Don't+be+a+stranger|let's+connect" alt="Typing SVG" />
 </p>
+
+
