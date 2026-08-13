@@ -7,59 +7,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=I'm+an+Applied+ML+Engineer;I'm+a+Python+Developer;Software+Engineering+Student|AUCA;I'm+a+Frontend+Developer" alt="Typing SVG" />
 </p>
 
+```
 
-## Tech Stack
+::::::::::::::::::::::::::::::::::::::::::::::::::   confy@code----------------------------------------
+::::::::::::::::::::::::::::::::::::::::::::::::::  
+:::::::::::::::::==..:::::::::::::::::::::::::::::   OS: ..................... Windows, Linux
+:::::::::::::::.+#%%%%#+::::::::::::::::::::::::::   Uptime: ................. 3 years (coding age)
+::::::::::::::=#+-====-+#+=.::::::::::::::::::::::   Kernel: ................. Full Stack & ML Engineer
+:::::::::::::=*===---=+++#+.....::::::::::::::::::   IDE: .................... VS Code, Google Colab
+:::::::::::::+=+======-+*+#.......::::::::::::::::   
+:::::::::::::--**##**##*#++.........::::::::::::::   Languages.Programming: .. Python, JavaScript (ES6
+:::::::::::::=-+*+*=-*+*++-=.........:::::::::::::   Languages.Computer: ..... HTML, CSS, JSON, YAML
+:::::::::::..+=-+++-+**++*+-...........:::::::::::   Languages.Real: ......... English, French, Swahili
+:::::::::::...+##+*##**###+............:::::::::::   ML.Frameworks: .......... PyTorch, OpenCV, SciKit-Learn, TensorFlow, SciPy 
+::::::::::.....*#*+==+####=.............::::::::::   JS.Frameworks: .......... Node.js, React.js
+:::::::::......=+*+*#**##*:..............:::::::::   
+:::::::::........+**###%%*.#-............:::::::::   
+::::::::.........=*#%%%#+=+%####++-----=..::::::::   Hobbies.Software: ....... DSA (LeetCode), Codewars
+::::::::........==**##*-.-###############=::::::::   Hobbies.Personal: ....... Playing Piano/Keyboard
+::::::::.......-*=##+-:.=#####%%#########*::::::::   
+:::::::...=-+*###-==...:*####%#####%######=:::::::   - Contact
+:::::::.-*#######+.....-#########%%####%##-:::::::   Email.Personal: ......... isingizweconfy@gmail.com
+:::::::*##########.....*#########%%###%%%%*:::::::   Email.Work: ............. isingizwe.jean@a2sv.org
+::::::.###########=....######%##%%####%%%#+:::::::   Discord: ................ @confycode_29583
+::::::=#%#########+...-###%%%%%%%%###%###%+:::::::   
+::::::+#%%#########=..*####%%%%%%#-+--####*:::::::   - GitHub Stats
+::::::*#%%%########+..###%#%%%%%*=-+-*###%#:::::::   Repos: .................. 21
+::::::#%%%%%%#######==##%%%%%%%-*++-*##%%%#:::::::   Stars: .................. 7
+:::::=#%#%%%%%%%%%#%#-%%%%%%%%#+**####%%%%+:::::::   Commits: ................ 1300+
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&labelColor=FFE873)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&labelColor=323330)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&labelColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&labelColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&labelColor=FFFFFF)
-
-### Frameworks & Libraries
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&labelColor=FFFFFF)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&labelColor=ADD8E6)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&labelColor=ADD8E6)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&labelColor=323330)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&labelColor=FFFFFF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&labelColor=FFFFFF)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&labelColor=FFFFFF)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&labelColor=89CFF0)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&labelColor=89CFF0)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&labelColor=89CFF0)
-
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&labelColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&labelColor=89CFF0)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&labelColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&labelColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&labelColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&labelColor=000000)
-
----
-
-## 🌐 Where to Find Me
-
-<p align="left">
-  <a href="https://github.com/Confy-Code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=323330" />
+```
+<p>
+  <a href="https://leetcode.com/u/Confy-Code/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&labelColor=FFFFFF" />
   </a>
 
   <a href="https://www.linkedin.com/in/isingizwe-j-confiance-118346249/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=FFFFFF" />
-  </a>
-
-  <a href="mailto:isingizweconfy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&labelColor=FFFFFF" />
-  </a>
-
-  <a href="https://leetcode.com/u/Confy-Code/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&labelColor=FFFFFF" />
   </a>
 
   <a href="https://confy-portfolio.vercel.app/">
@@ -69,22 +53,6 @@
 
 ---
 
-## GitHub Stats
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Confy-Code&hide_border=false" />
-</p>
-
----
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;I’d+love+to+know+a+little+about+you+too;Don't+be+a+stranger|let's+connect" alt="Typing SVG" />
-</p> -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting;I+wanna+know+more+about+you;Don't+be+a+stranger|let's+connect" alt="Typing SVG" />
 </p>
-
-
