@@ -9,7 +9,7 @@
 
 <p>
   <div align="center">
-    <img width="3000" src="./Assets/profile_card.png" alt="confy-code profile card" />
+    <img width="3000" src="./Assets/profile_card_2.png" alt="confy-code profile card" />
   </div>
 
   <a href="https://leetcode.com/u/Confy-Code/">
