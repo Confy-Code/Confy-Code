@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=I'm+an+Applied+ML+Engineer;I'm+a+Python+Developer;Software+Engineering+Student|AUCA;I'm+a+Frontend+Developer" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="./Assets/profile_card.png" alt="confy-code profile card" />
-</div>
-
 <p>
+  <div align="center">
+    <img width="3000" src="./Assets/profile_card.png" alt="confy-code profile card" />
+  </div>
+
   <a href="https://leetcode.com/u/Confy-Code/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&labelColor=FFFFFF" />
   </a>
