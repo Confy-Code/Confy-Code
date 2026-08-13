@@ -11,6 +11,7 @@
   <div align="center">
     <img width="3000" src="./Assets/profile_card_2.png" alt="confy-code profile card" />
   </div>
+</p>
 
   <a href="https://leetcode.com/u/Confy-Code/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&labelColor=FFFFFF" />
