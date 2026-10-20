@@ -15,7 +15,7 @@
 ::::::::::::::=#+-====-+#+=.::::::::::::::::::::::   Kernel: ................. Full Stack & ML Engineer
 :::::::::::::=*===---=+++#+.....::::::::::::::::::   IDE: .................... VS Code, Google Colab
 :::::::::::::+=+======-+*+#.......::::::::::::::::   
-:::::::::::::--**##**##*#++.........::::::::::::::   Languages.Programming: .. Python, JavaScript (ES6
+:::::::::::::--**##**##*#++.........::::::::::::::   Languages.Programming: .. Python, TypeScript
 :::::::::::::=-+*+*=-*+*++-=.........:::::::::::::   Languages.Computer: ..... HTML, CSS, JSON, YAML
 :::::::::::..+=-+++-+**++*+-...........:::::::::::   Languages.Real: ......... English, French, Swahili
 :::::::::::...+##+*##**###+............:::::::::::   ML.Frameworks: .......... PyTorch, OpenCV, SciKit-Learn, TensorFlow, SciPy 
